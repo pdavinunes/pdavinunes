@@ -9,7 +9,9 @@
 
 I'm developer at Casa Magalhães, working mainly with Node.js and Flutter.
 
- - 📌 Skills: NodeJS, TypeScript, Flutter, PHP, Java 
+ - 📌 Skills: NodeJS, TypeScript, Flutter, PHP, Java, Python 
  - 🎯 Focus in Back-end and Mobile
  - 📚 Currently learning about good practices 
  - 👨🏽‍💻 Goal: Always be better than i was yesterday 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdavinunes&layout=compact&hide_border=true&theme=dracula" alt="fhugoduarte" /> </p>
