@@ -8,7 +8,7 @@
 
 I'm developer at QuickData S/A, working mainly with Node.js, Flutter and AWS.
 
- - 📌 Skills: NodeJS, Flutter, TypeScript, VueJS 
+ - 📌 Skills: Node.js, Flutter, TypeScript, VueJS 
  - 🎯 Focus in Back-end and Mobile
  - 📚 Currently learning about serverless architectures  
  - 👨🏽‍💻 Goal: Always be better than i was yesterday 
