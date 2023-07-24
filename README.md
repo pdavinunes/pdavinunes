@@ -13,4 +13,3 @@ I'm developer at QuickData S/A, working mainly with Node.js, Flutter and AWS.
  - 📚 Currently learning about serverless architectures  
  - 👨🏽‍💻 Goal: Always be better than i was yesterday 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdavinunes&layout=compact&hide_border=true&theme=dracula" alt="fhugoduarte" /> </p>
