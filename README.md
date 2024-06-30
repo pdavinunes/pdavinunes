@@ -2,11 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-pdavinunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pdavinunes/)](https://www.linkedin.com/in/pdavinunes/)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p.davi.nunes@gmail.com)](mailto:p.davi.nunes@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@pdavinl-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/pdavinl/)](https://www.instagram.com/pdavinl/)
 
 ## Hi! Welcome to my profile
 
-I'm developer at QuickData S/A, working mainly with Node.js, Flutter and AWS.
+I'm developer at Nubo, working mainly with Node.js, Flutter and AWS.
 
  - 📌 Skills: Node.js, Flutter, TypeScript, VueJS 
  - 🎯 Focus in Back-end and Mobile
