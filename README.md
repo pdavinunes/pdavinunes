@@ -5,7 +5,7 @@
 
 ## Hi! Welcome to my profile
 
-I'm developer at Nubo, working mainly with Node.js, Flutter and AWS.
+I'm developer at Nubo, working mainly with Node.js, Python, Go and AWS.
 
  - 📌 Skills: Node.js, Flutter, TypeScript, VueJS 
  - 🎯 Focus in Back-end and Mobile
