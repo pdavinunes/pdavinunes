@@ -8,7 +8,7 @@
 I'm developer at Nubo, working mainly with Node.js, Python, Go and AWS.
 
  - 📌 Skills: Node.js, Flutter, TypeScript, VueJS 
- - 🎯 Focus in Back-end and Mobile
+ - 🎯 Focus in Back-end
  - 📚 Currently learning about serverless architectures  
- - 👨🏽‍💻 Goal: Always be better than i was yesterday 
+ - 👨🏽‍💻 Goal: Always be better than I was yesterday 
 
