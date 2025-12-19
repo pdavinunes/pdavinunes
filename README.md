@@ -7,7 +7,7 @@
 
 I'm developer at Nubo, working mainly with Node.js, Python, Go and AWS.
 
- - 📌 Skills: Node.js, Python, TypeScript, React 
+ - 📌 Skills: Node.js, Python, TypeScript, Go, React 
  - 🎯 Focus in Back-end
  - 📚 Currently learning about serverless architectures  
  - 👨🏽‍💻 Goal: Always be better than I was yesterday 
